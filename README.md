@@ -22,6 +22,6 @@ For the second semester project we worked in team to develop Library System, whi
 
 ![LibrarySystemTwo](https://user-images.githubusercontent.com/62397372/108986768-c6f24100-7692-11eb-9dfc-244f2059ffdd.png)
 
-
+![LibrarySystemOne](https://user-images.githubusercontent.com/62397372/108986808-d5405d00-7692-11eb-85fd-a122994292e6.png)
 
 This project includes complete documentation including project description, use case descriptions, system sequence diagrams, package diagram, low detailed class diagram, conceptual model of database, logical model of database, UML class diagrams, usability test results, user manual, installation guide, product backlog, planning of each sprint, burndown charts, unit test results and source code. This project was developed using SCRUM and UP methodology. It includes JavaFX and PostgreSQL database. Communication between client and server is realized by multithreaded RMI. You can find MVVM and observer patterns.
