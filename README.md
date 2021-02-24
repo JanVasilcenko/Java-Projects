@@ -24,4 +24,10 @@ For the second semester project we worked in team to develop Library System, whi
 
 ![LibrarySystemOne](https://user-images.githubusercontent.com/62397372/108986808-d5405d00-7692-11eb-85fd-a122994292e6.png)
 
-This project includes complete documentation including project description, use case descriptions, system sequence diagrams, package diagram, low detailed class diagram, conceptual model of database, logical model of database, UML class diagrams, usability test results, user manual, installation guide, product backlog, planning of each sprint, burndown charts, unit test results and source code. This project was developed using SCRUM and UP methodology. It includes JavaFX and PostgreSQL database. Communication between client and server is realized by multithreaded RMI. You can find MVVM and observer patterns.
+This project includes complete documentation including project description, use case descriptions, system sequence diagrams, package diagram, low detailed class diagram, conceptual model of database, logical model of database, UML class diagrams, usability test results, user manual, installation guide, product backlog, planning of each sprint, burndown charts, unit test results and source code.
+This project was developed using SCRUM and UP methodology. It includes JavaFX and PostgreSQL database. Communication between client and server is realized by multithreaded RMI. You can find MVVM and observer patterns.
+
+### Third semester project
+Third big project was heterogeneous application using Java and C#. Goal of this program was to develop Airline Reservation System, so that passengers can book and manage their flights and so that operators can delay, cancel, modify and add flights.
+
+This project includes complete documentation including project description, use case diagrams, package diagram, class diagram, sequence diagrams, conceptual model of database, logical model of database, integration test results, test cases, usability test, user manual, installation guide, product backlog, sprint breakdown, burndown chart, link to video demonstration and source code. This system uses three-tier architecture. For communication between client and middleware REST web services are used. For communication between middleware and persistence, sockets with custom protocol are used. C# is used only for client and UI using new tech Blazor.
