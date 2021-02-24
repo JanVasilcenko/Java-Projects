@@ -44,3 +44,6 @@ This project includes complete documentation including project description, use 
 This small project is just socket client-server application implementing simple chat system, showing messages and number of clients connected.
 
 ![ChatApplication](https://user-images.githubusercontent.com/62397372/108995585-98c62e80-769d-11eb-90f2-c511b83bdf34.png)
+
+### Kingdom Simulator
+This console application is for design pattern practise and together it makes a kingdom simulator. Miners mine random resources and once there is enough valuable transporters bring them to treasure room, the room is guarded by a guard and transporters can only add resources, accountants view the treasure room and count valuables, king takes valuables and once there is enough he throws a party and depletes resources. Design patterns used are flyweight,producer, consumer, adapter, reader, writer, proxy and singleton.
