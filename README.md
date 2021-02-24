@@ -15,4 +15,11 @@ My first team work and also first programming project was Student Exam planner. 
 
 ![ExamPlannerTwo](https://user-images.githubusercontent.com/62397372/108982729-65c86e80-768e-11eb-8948-91a58348be56.png)
 
-This project includes complete documentation, Activity diagrams, UML diagrams, Group Report (Team report), User Manual and code. Exam planner was developed using Java with Waterfall methodology. JavaFX was used for UI and external CSS file for styling it. 
+This project includes complete documentation, Activity diagrams, UML diagrams, Group Report (Team report), User Manual and code. Exam planner was developed using Java with Waterfall methodology. JavaFX was used for UI and external CSS file for styling it.
+
+### Second semester project
+For the second semester project we worked in team to develop Library System, which helps librarians login and keep track of borrowed and reserved items (Books,Games and Movies). This project is client-server.
+
+
+
+This project includes complete documentation including project description, use case descriptions, system sequence diagrams, package diagram, low detailed class diagram, conceptual model of database, logical model of database, UML class diagrams, usability test results, user manual, installation guide, product backlog, planning of each sprint, burndown charts, unit test results and source code. This project was developed using SCRUM and UP methodology. It includes JavaFX and PostgreSQL database. Communication between client and server is realized by multithreaded RMI. You can find MVVM and observer patterns.
