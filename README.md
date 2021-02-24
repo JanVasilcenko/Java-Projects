@@ -49,3 +49,6 @@ This small project is just socket client-server application implementing simple 
 This console application is for design pattern practise and together it makes a kingdom simulator. Miners mine random resources and once there is enough valuable transporters bring them to treasure room, the room is guarded by a guard and transporters can only add resources, accountants view the treasure room and count valuables, king takes valuables and once there is enough he throws a party and depletes resources. Design patterns used are flyweight,producer, consumer, adapter, reader, writer, proxy and singleton.
 
 ![KingdomSimulation](https://user-images.githubusercontent.com/62397372/108997585-0e32fe80-76a0-11eb-96ac-6b807287d2bc.png)
+
+### Heater Simulator
+In this project we simulater a heater and there are two thermometers, if the temperature is too low message will appear. User can switch between 3 modes for the heater. It was build using JavaFX and state machine desing pattern is used.
