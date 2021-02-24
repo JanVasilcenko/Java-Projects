@@ -36,6 +36,6 @@ Third big project was heterogeneous application using Java and C#. Goal of this 
 
 ![AirlineReservationSystemTwo](https://user-images.githubusercontent.com/62397372/108990236-db383d00-7696-11eb-8752-0e89c4d0a9d7.png)
 
-
+![AirlineReservationSystemFour](https://user-images.githubusercontent.com/62397372/108990244-de332d80-7696-11eb-9235-f13f6ca22fa9.png)
 
 This project includes complete documentation including project description, use case diagrams, package diagram, class diagram, sequence diagrams, conceptual model of database, logical model of database, integration test results, test cases, usability test, user manual, installation guide, product backlog, sprint breakdown, burndown chart, link to video demonstration and source code. This system uses three-tier architecture. For communication between client and middleware REST web services are used. For communication between middleware and persistence, sockets with custom protocol are used. C# is used only for client and UI using new tech Blazor.
