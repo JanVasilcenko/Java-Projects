@@ -20,6 +20,8 @@ This project includes complete documentation, Activity diagrams, UML diagrams, G
 ### Second semester project
 For the second semester project we worked in team to develop Library System, which helps librarians login and keep track of borrowed and reserved items (Books,Games and Movies). This project is client-server.
 
+![LibrarySystemTwo](https://user-images.githubusercontent.com/62397372/108986768-c6f24100-7692-11eb-9dfc-244f2059ffdd.png)
+
 
 
 This project includes complete documentation including project description, use case descriptions, system sequence diagrams, package diagram, low detailed class diagram, conceptual model of database, logical model of database, UML class diagrams, usability test results, user manual, installation guide, product backlog, planning of each sprint, burndown charts, unit test results and source code. This project was developed using SCRUM and UP methodology. It includes JavaFX and PostgreSQL database. Communication between client and server is realized by multithreaded RMI. You can find MVVM and observer patterns.
