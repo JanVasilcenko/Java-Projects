@@ -13,4 +13,6 @@ My first team work and also first programming project was Student Exam planner. 
 
 ![ExamPlannerOne](https://user-images.githubusercontent.com/62397372/108982462-1eda7900-768e-11eb-9d51-562984d06d3f.png)
 
+![ExamPlannerTwo](https://user-images.githubusercontent.com/62397372/108982729-65c86e80-768e-11eb-8948-91a58348be56.png)
+
 This project includes complete documentation, Activity diagrams, UML diagrams, Group Report (Team report), User Manual and code. Exam planner was developed using Java with Waterfall methodology. JavaFX was used for UI and external CSS file for styling it. 
