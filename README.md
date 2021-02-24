@@ -11,6 +11,6 @@ This project was built with JavaFX using Scene Builder. Patterns used in this pr
 ### First semester project
 My first team work and also first programming project was Student Exam planner. It is a Single User System. In this programme teachers and administrators could plan their exams, manage students, rooms and in the end export everything into XML file that could be worked with.
 
-
+![ExamPlannerOne](https://user-images.githubusercontent.com/62397372/108982462-1eda7900-768e-11eb-9d51-562984d06d3f.png)
 
 This project includes complete documentation, Activity diagrams, UML diagrams, Group Report (Team report), User Manual and code. Exam planner was developed using Java with Waterfall methodology. JavaFX was used for UI and external CSS file for styling it. 
