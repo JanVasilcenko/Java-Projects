@@ -42,3 +42,5 @@ This project includes complete documentation including project description, use 
 
 ### Simple chat system
 This small project is just socket client-server application implementing simple chat system, showing messages and number of clients connected.
+
+![ChatApplication](https://user-images.githubusercontent.com/62397372/108995585-98c62e80-769d-11eb-90f2-c511b83bdf34.png)
