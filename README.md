@@ -60,3 +60,4 @@ In this project we simulater a heater and there are two thermometers, if the tem
 ### Sudoku solver
 Simple sudoku solver, using backtracking algorithm, cannot solve every sudoku. Simple console version just to solve easy and medium sudoku.
 
+![SudokuSolver](https://user-images.githubusercontent.com/62397372/109018333-4f370d00-76b8-11eb-9319-cd825e1945d6.png)
