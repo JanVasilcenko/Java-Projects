@@ -1,0 +1,11 @@
+1) Set up the database in postgres by giving the database the name "LibrarySystem" and the schema "library".
+2) In the "library" schema, copy and paste the sql code found in Appendix H, under the folder Database and execute.
+3) Set up the java source code which can be found in Appendix H, under the folder LibrarySystem.
+4) The Client must be in a module and the Server must be in another module. This is done so that it can also work
+   one separate computers where one comuputer has the database and server, while the other only has the Client.
+   Alternatively, the client and server can also be in separate projects.
+5) Download and add the external JAR file for JDBC Driver for PostgreSQL or for any other database that you are
+   using.
+6) In the Server module, under the Adapter package, go to DatabaseInfo class and set the username and password
+   for the database in the getters.
+7) Run the server and wait for the Connected message from the database, then run the the client.
