@@ -57,3 +57,6 @@ In this project we simulater a heater and there are two thermometers, if the tem
 
 ![HeaterTwo](https://user-images.githubusercontent.com/62397372/108998727-9cf44b00-76a1-11eb-8f1b-3119e33a892b.png)
 
+### Sudoku solver
+Simple sudoku solver, using backtracking algorithm, cannot solve every sudoku. Simple console version just to solve easy and medium sudoku.
+
